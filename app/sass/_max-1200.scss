@@ -1,0 +1,130 @@
+@media (max-width: 1200px) {
+
+	/* ___________________________Top-Nav___________________________ */
+
+	
+
+	/* ___________________________Top-Phone___________________________ */
+
+	button {
+		font: 14px "Roboto";
+		padding: 7px 10px;
+	}
+
+	.top-phone {
+		img {
+			margin-right: 15px;
+		}
+	}
+
+	/* ___________________________Triggers___________________________ */
+
+	.triggers {
+		.col-sm-1-5 {
+			padding-left: 10px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			&:last-child {
+				padding-right: 10px;
+			}
+		}
+		.wrapper {
+			height: 185px;
+			padding-top: 20px;
+		}
+		img {
+			padding-bottom: 20px;
+		}
+		p {
+			font: 14px "Open Sans";
+		}
+	}
+
+	/* ___________________________Price___________________________ */
+
+	.price {
+		table {
+			.logo-2 {
+				padding-left: 20px;
+			}
+			thead {
+				h3 {
+					font: 20px "Roboto";
+				}
+				img {
+					max-width: 200px;
+					height: auto;
+				}
+			}
+			td,
+			th {
+				width: 270px;
+			}
+		}
+	}
+
+	/* ___________________________Price 2___________________________ */
+
+	.price-2 {
+		thead {
+			img {
+				max-width: 350px !important;
+				height: auto;
+			}
+		}
+	}
+
+	/* ___________________________Arenda___________________________ */
+
+	.arenda {
+		p {
+			margin-left: 200px;
+		}
+	}
+
+	/* ___________________________Why BlueSun______________________ */
+
+	.why {
+		margin-top: 70px;
+		.block {
+			padding: 40px;
+		}
+		p {
+			margin-top: 30px;
+		}
+	}
+
+	/* ___________________________Video______________________ */
+
+	.video-sec {
+		h2 {
+			&:before {
+				content: '';
+				display: block;
+				bottom: -50px;
+				right: 0;
+				width: 115px;
+				height: 73px;
+				background: url("../img/strelka.png");
+				position: absolute;
+			}
+		}
+		.fuu {
+			display: none;
+		}
+		.youtube {
+			a {
+				img {
+					margin-left: 40px;
+				}
+			}
+		}
+	}
+
+	/*--------------------- Footer -----------------------*/
+
+	.footer--a-make-order,
+	.footer--a-question {
+	    width: 220px;
+	}
+}
