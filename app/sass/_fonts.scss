@@ -1,117 +1,164 @@
 @font-face {
-	font-family: 'Open Sans';
-	src: url(../fonts/OpenSansBold.ttf);
-	font-weight: 500
+	font-family: 'Geometria';
+	src: url(../fonts/Geometria.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans Italic';
-	src: url(../fonts/OpenSansItalic.ttf);
+	font-family: 'Geometria-Bold';
+	src: url(../fonts/Geometria-Bold.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	src: url(../fonts/OpenSansExtraBold.ttf);
-	font-weight: 900;
+	font-family: 'Geometria-BoldItalic';
+	src: url(../fonts/Geometria-BoldItalic.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans Extra Bold Italic';
-	src: url(../fonts/OpenSansBoldItalic.ttf);
+	font-family: 'Geometria-ExtraBlack';
+	src: url(../fonts/Geometria-ExtraBlack.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans Italic';
-	src: url(../fonts/OpenSansItalic.ttf);
+	font-family: 'Geometria-ExtraBlackItalic';
+	src: url(../fonts/Geometria-ExtraBlackItalic.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	src: url(../fonts/OpenSansLight.ttf);
-	font-weight: 100
+	font-family: 'Geometria-ExtraLight';
+	src: url(../fonts/Geometria-ExtraLight.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans Light Italic';
-	src: url(../fonts/OpenSansLightItalic.ttf);
+	font-family: 'Geometria-ExtraLightItalic';
+	src: url(../fonts/Geometria-ExtraLightItalic.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	src: url(../fonts/OpenSansRegular.ttf);
-	font-weight: 300
+	font-family: 'Geometria-Heavy';
+	src: url(../fonts/Geometria-Heavy.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	src: url(../fonts/OpenSansSemiBold.ttf);
-	font-weight: 700
+	font-family: 'Geometria-HeavyItalic';
+	src: url(../fonts/Geometria-HeavyItalic.otf);
 }
 
 @font-face {
-	font-family: 'Open Sans Semi Bold Italic';
-	src: url(../fonts/OpenSansSemiBoldItalic.ttf);
-	font-weight: 100
+	font-family: 'Geometria-Italic';
+	src: url(../fonts/Geometria-Italic.otf);
 }
 
 @font-face {
-	font-family: 'Roboto';
-	src: url(../fonts/Roboto-Bold.ttf);
-	font-weight: 500
+	font-family: 'Geometria-Light';
+	src: url(../fonts/Geometria-Light.otf);
 }
 
 @font-face {
-	font-family: 'Roboto';
-	src: url(../fonts/Roboto-Light.ttf);
-	font-weight: 100
+	font-family: 'Geometria-LightItalic';
+	src: url(../fonts/Geometria-LightItalic.otf);
 }
 
 @font-face {
-	font-family: 'Roboto';
-	src: url(../fonts/Roboto-Medium.ttf);
-	font-weight: 400
+	font-family: 'Geometria-Medium';
+	src: url(../fonts/Geometria-Medium.otf);
 }
 
 @font-face {
-	font-family: 'Roboto';
-	src: url(../fonts/Roboto-Regular.ttf);
-	font-weight: 300
+	font-family: 'Geometria-MediumItalic';
+	src: url(../fonts/Geometria-MediumItalic.otf);
 }
 
 @font-face {
-	font-family: 'Roboto Thin';
-	src: url(../fonts/Roboto-Thin.ttf);
+	font-family: 'Geometria-Thin';
+	src: url(../fonts/Geometria-Thin.otf);
 }
 
 @font-face {
-	font-family: 'Roboto Condensed';
+	font-family: 'Geometria-ThinItalic';
+	src: url(../fonts/Geometria-ThinItalic.otf);
+}
+
+@font-face {
+	font-family: 'LatoBold';
+	src: url(../fonts/LatoBold.ttf);
+}
+
+@font-face {
+	font-family: 'LatoBoldItalick';
+	src: url(../fonts/LatoBoldItalick.ttf);
+}
+
+@font-face {
+	font-family: 'LatoItalic';
+	src: url(../fonts/LatoItalic.ttf);
+}
+
+@font-face {
+	font-family: 'LatoLight';
+	src: url(../fonts/LatoLight.ttf);
+}
+
+@font-face {
+	font-family: 'LatoLightItalic';
+	src: url(../fonts/LatoLightItalic.ttf);
+}
+
+@font-face {
+	font-family: 'LatoRegular';
+	src: url(../fonts/LatoRegular.ttf);
+}
+
+@font-face {
+	font-family: 'RobotoCondensed-Bold';
 	src: url(../fonts/RobotoCondensed-Bold.ttf);
-	font-weight: 500
 }
 
 @font-face {
-	font-family: 'Roboto Condensed Bold Italic';
-	src: url(../fonts/RobotoCondensed-BoldLight.ttf);
+	font-family: 'RobotoCondensed-BoldItalic';
+	src: url(../fonts/RobotoCondensed-BoldItalic.ttf);
 }
 
 @font-face {
-	font-family: 'Roboto Condensed Italic';
+	font-family: 'RobotoCondensed-Italic';
 	src: url(../fonts/RobotoCondensed-Italic.ttf);
 }
 
 @font-face {
-	font-family: 'Roboto Condensed';
+	font-family: 'RobotoCondensed-Light';
 	src: url(../fonts/RobotoCondensed-Light.ttf);
-	font-weight: 100
 }
 
 @font-face {
-	font-family: 'Roboto Condensed Light Italic';
+	font-family: 'RobotoCondensed-LightItalic';
 	src: url(../fonts/RobotoCondensed-LightItalic.ttf);
 }
 
 @font-face {
-	font-family: 'Roboto Condensed';
+	font-family: 'RobotoCondensed-Regular';
 	src: url(../fonts/RobotoCondensed-Regular.ttf);
-	font-weight: 300
+}
+
+@font-face {
+	font-family: 'Roboto-Bold';
+	src: url(../fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+	font-family: 'Roboto-Light';
+	src: url(../fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+	font-family: 'Roboto-Medium';
+	src: url(../fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'Roboto-Thin';
+	src: url(../fonts/Roboto-Thin.ttf);
 }
